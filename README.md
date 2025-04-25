@@ -1,6 +1,7 @@
 # Frontend Daily Drill Bible
 
 **Your 60-Minute Daily Ritual to Ace U.S. Frontend Interviews**
+
 📅 *Last Updated: April 25, 2025*
 
 ---
